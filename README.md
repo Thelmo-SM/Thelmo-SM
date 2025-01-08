@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hola, soy [Tu Nombre] 👋
 
-<!--
-**Thelmo-SM/Thelmo-SM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador frontend especializado en:
 
-Here are some ideas to get you started:
+- 🌐 **Tecnologías:** HTML, CSS, JavaScript, React, TailwindCSS.
+- 📈 **Intereses:** Desarrollo web, diseño responsivo, UI/UX.
+- 🚀 **Proyectos destacados:**
+  - [E-commerce](https://github.com/tuusuario/ecommerce) - Tienda online moderna.
+  - [Gestor de citas](https://github.com/tuusuario/gestor-citas) - Sistema para barberías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Encuéntrame en:
+- [LinkedIn](https://linkedin.com/in/tuusuario)
+- [Portafolio](https://tuportafolio.com)

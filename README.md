@@ -1,13 +1,12 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Thelmo Antonio Silverio Muñoz👋
 
-Soy un desarrollador frontend especializado en:
+**Desarrollador Frontend** enfocado en crear experiencia web modernas y funcionales.
 
-- 🌐 **Tecnologías:** HTML, CSS, JavaScript, React, TailwindCSS.
-- 📈 **Intereses:** Desarrollo web, diseño responsivo, UI/UX.
-- 🚀 **Proyectos destacados:**
-  - [E-commerce](https://github.com/tuusuario/ecommerce) - Tienda online moderna.
-  - [Gestor de citas](https://github.com/tuusuario/gestor-citas) - Sistema para barberías.
+---
 
-### 🌟 Encuéntrame en:
-- [LinkedIn](https://linkedin.com/in/tuusuario)
-- [Portafolio](https://tuportafolio.com)
+### 🛠️ Tecnologías y Habilidades  
+- **Lenguajes:** JavaScript (ES6+), TypeScript, HTML, CSS.  
+- **Frameworks y Librerías:** React, Next.js, Pug, Chakra UI, Redux Toolkit.
+- **Estilos:** Tailwind CSS, Sass, CSS Modules.  
+- **Manipulación del DOM:** Amplia experiencia optimizando y personalizando interacciones dinámicas.  
+- **Herramientas:** Git, pnpm, Turbopack, npm, Vercel, Webpack.

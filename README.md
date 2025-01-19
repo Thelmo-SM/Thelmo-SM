@@ -1,6 +1,6 @@
 # Hola, soy Thelmo Antonio Silverio Muñoz 👋
 
-**Desarrollador Frontend** enfocado en crear experiencias web modernas y funcionales.
+**Full Stack Developer | Especialista en Desarrollo Frontend** enfocado en crear experiencias web modernas y funcionales.
 
 ---
 

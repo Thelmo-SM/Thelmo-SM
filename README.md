@@ -13,7 +13,7 @@
 - 
 **Backend:**
 - **Bases de Datos:** MongoDB, PostgreSQL.
-- **Frameworks y Herramientas:** Express, TypeORM.
+- **Frameworks:** Express, TypeORM.
 - **APIs:** RESTful Services, integración con bases de datos.    
 
 ---

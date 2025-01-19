@@ -13,7 +13,7 @@
 
 ---
 
-#### [Elysium Hotel & Resort de Lujo](https://github.com/Thelmo-SM/Elysium-Hotel)  
+#### [Elysium Hotel & Resort de Lujo](https://github.com/RGonzalezRebolledo/PFhenrypt21b)  
 **Descripción:** Proyecto colaborativo para un hotel de lujo, incluyendo vistas de instalaciones, registro de usuarios y gestión de habitaciones.  
 **Tecnologías utilizadas:** React, Sass, Google Maps API.  
 **Contribución personal:**  

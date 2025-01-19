@@ -10,6 +10,8 @@
 - **Frameworks y Librerías:** React, Next.js, Pug, Chakra UI, Redux Toolkit.
 - **Estilos:** Tailwind CSS, Sass, CSS Modules.  
 - **Manipulación del DOM:** Amplia experiencia optimizando y personalizando interacciones dinámicas.
+-
+- 
 **Backend:**
 - **Bases de Datos:** MongoDB, PostgreSQL.
 - **Frameworks y Herramientas:** Express, TypeORM.

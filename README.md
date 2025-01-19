@@ -1,6 +1,6 @@
-# Hola, soy Thelmo Antonio Silverio Muñoz👋
+# Hola, soy Thelmo Antonio Silverio Muñoz 👋
 
-**Desarrollador Frontend** enfocado en crear experiencia web modernas y funcionales.
+**Desarrollador Frontend** enfocado en crear experiencias web modernas y funcionales.
 
 ---
 
@@ -9,4 +9,11 @@
 - **Frameworks y Librerías:** React, Next.js, Pug, Chakra UI, Redux Toolkit.
 - **Estilos:** Tailwind CSS, Sass, CSS Modules.  
 - **Manipulación del DOM:** Amplia experiencia optimizando y personalizando interacciones dinámicas.  
-- **Herramientas:** Git, pnpm, Turbopack, npm, Vercel, Webpack.
+- **Herramientas:** Git, pnpm, Turbopack, npm, Vercel, Webpack.  
+
+---
+
+### 📞 Contacto  
+- **Correo electrónico:** toraphebi@gmail.com  
+- **Número de teléfono:** +1 (809) 775-9905  
+- **LinkedIn:** [thelmo-silverio](https://www.linkedin.com/in/thelmo-sm/)  

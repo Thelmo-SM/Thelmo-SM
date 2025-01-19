@@ -5,11 +5,15 @@
 ---
 
 ### 🛠️ Tecnologías y Habilidades  
+**Frontend:**
 - **Lenguajes:** JavaScript (ES6+), TypeScript, HTML, CSS.  
 - **Frameworks y Librerías:** React, Next.js, Pug, Chakra UI, Redux Toolkit.
 - **Estilos:** Tailwind CSS, Sass, CSS Modules.  
-- **Manipulación del DOM:** Amplia experiencia optimizando y personalizando interacciones dinámicas.  
-- **Herramientas:** Git, pnpm, Turbopack, npm, Vercel, Webpack.  
+- **Manipulación del DOM:** Amplia experiencia optimizando y personalizando interacciones dinámicas.
+**Backend:**
+- **Bases de Datos:** MongoDB, PostgreSQL.
+- **Frameworks y Herramientas:** Express, TypeORM.
+- **APIs:** RESTful Services, integración con bases de datos.    
 
 ---
 

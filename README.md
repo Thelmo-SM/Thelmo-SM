@@ -21,9 +21,7 @@
 - Integración de mapas interactivos para localizar sucursales.  
 - Métodos de administración para cambiar precios y deshabilitar habitaciones no disponibles.
 
----
-
-#### [E-Comerce](https://github.com/pi-rym/PM4FE-Thelmo-SM)  
+- ---
 
 ### 📞 Contacto  
 - **Correo electrónico:** toraphebi@gmail.com  

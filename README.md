@@ -13,6 +13,18 @@
 
 ---
 
+#### [Elysium Hotel & Resort de Lujo](https://github.com/Thelmo-SM/Elysium-Hotel)  
+**Descripción:** Proyecto colaborativo para un hotel de lujo, incluyendo vistas de instalaciones, registro de usuarios y gestión de habitaciones.  
+**Tecnologías utilizadas:** React, Sass, Google Maps API.  
+**Contribución personal:**  
+- Desarrollo de formulario de registro optimizado para la experiencia de usuario.  
+- Integración de mapas interactivos para localizar sucursales.  
+- Métodos de administración para cambiar precios y deshabilitar habitaciones no disponibles.
+
+---
+
+#### [E-Comerce](https://github.com/pi-rym/PM4FE-Thelmo-SM)  
+
 ### 📞 Contacto  
 - **Correo electrónico:** toraphebi@gmail.com  
 - **Número de teléfono:** +1 (809) 775-9905  

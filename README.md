@@ -28,4 +28,4 @@
 ### 📞 Contacto  
 - **Correo electrónico:** toraphebi@gmail.com  
 - **Número de teléfono:** +1 (809) 775-9905  
-- **LinkedIn:** [thelmo-silverio](https://www.linkedin.com/in/thelmo-sm/)  
+- **LinkedIn:** [Thelmo-SM](https://www.linkedin.com/in/thelmo-sm/)  

@@ -37,8 +37,8 @@ Aplicación web moderna desarrollada con **Next.js 15**, **React 19**, **Firebas
 **Tecnologías principales:**  
 `Next.js`, `React`, `Firebase`, `Stripe`, `Cloudinary`, `CSS Modules`, `Recharts`, `TypeScript`
 
-[🔗 Ver Repositorio](https://github.com/tu-usuario/carrito-digital)  
-[🌐 Ver Demo](https://carrito-digital.vercel.app) *(si tienes deploy)*
+[🔗 Ver Repositorio](https://github.com/Thelmo-SM/carrito-digital)  
+[🌐 Ver Demo](https://carrito-digital.vercel.app)
 
 ![Vista previa de Carrito digital](https://link-a-tu-imagen.com/captura.png)
 

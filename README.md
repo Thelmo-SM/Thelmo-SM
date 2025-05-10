@@ -18,13 +18,29 @@
 
 ---
 
-#### [Elysium Hotel & Resort de Lujo](https://github.com/RGonzalezRebolledo/PFhenrypt21b)  
-**Descripción:** Proyecto colaborativo para un hotel de lujo, incluyendo vistas de instalaciones, registro de usuarios y gestión de habitaciones.  
-**Tecnologías utilizadas:** React, Sass, Google Maps API.  
-**Contribución personal:**  
-- Desarrollo de formulario de registro optimizado para la experiencia de usuario.  
-- Integración de mapas interactivos para localizar sucursales.  
-- Métodos de administración para cambiar precios y deshabilitar habitaciones no disponibles.
+## Proyectos Destacados
+
+### 🛒 Carrito Digital para E-commerce
+
+Aplicación web moderna desarrollada con **Next.js 15**, **React 19**, **Firebase** y **Stripe**, que permite a los usuarios:
+
+- Agregar productos al carrito
+- Gestionar cantidades o eliminarlos
+- Procesar pagos seguros con **Stripe**
+- Visualizar pedidos anteriores
+- Comunicarse directamente con el administrador mediante un **chat en vivo integrado**
+- Almacenar imágenes con **Cloudinary**
+- Controlar autenticación y estado de sesión con **Firebase Auth** y cookies
+- Visualizar métricas de ventas con **Recharts**
+- Estilizado con **CSS Modules** para mantener una arquitectura de estilos modular y escalable
+
+**Tecnologías principales:**  
+`Next.js`, `React`, `Firebase`, `Stripe`, `Cloudinary`, `CSS Modules`, `Recharts`, `TypeScript`
+
+[🔗 Ver Repositorio](https://github.com/tu-usuario/carrito-digital)  
+[🌐 Ver Demo](https://carrito-digital.vercel.app) *(si tienes deploy)*
+
+![Vista previa de Carrito digital](https://link-a-tu-imagen.com/captura.png)
 
 - ---
 

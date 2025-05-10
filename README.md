@@ -48,17 +48,15 @@ Aplicación web completa para una barbería moderna que incluye:
 
 - Reservas de citas personalizadas
 - Panel de control para barberos con métricas, control de clientes y gestión de citas
-- Módulo de tienda con carrito y sistema de pagos
 - Chat entre clientes y barberos
-- Autenticación con Firebase y protección de rutas
 - Dashboard administrativo
 - Almacenamiento de imágenes con Cloudinary
 
 **Tecnologías principales:**  
-`Next.js`, `React`, `Firebase`, `Cloudinary`, `Stripe`, `TypeScript`, `CSS Modules`
+`Next.js`, `React`, `Firebase`, `Cloudinary`, `Stripe`, `TypeScript`, `Tailwind CSS`
 
 [🔗 Ver Repositorio](https://github.com/Thelmo-SM/elegance-studio)
-[🌐 Ver Demo](https://elegance-studio.vercel.app)
+[🌐 Ver Demo](https://elegance-studio.vercel.app/)
 
 - ---
 

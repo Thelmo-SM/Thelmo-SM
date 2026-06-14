@@ -2,7 +2,7 @@
 
 ## Full Stack Developer especializado en Frontend
 
-Desarrollador Full Stack con especialización en desarrollo frontend. Desde 2022 he trabajado en el desarrollo de aplicaciones web modernas, enfocándome en crear interfaces de alto rendimiento, arquitecturas escalables y experiencias de usuario de calidad.
+Desarrollador Full Stack con especialización en desarrollo frontend. Desde 2023 he trabajado en el desarrollo de aplicaciones web modernas, enfocándome en crear interfaces de alto rendimiento, arquitecturas escalables y experiencias de usuario de calidad.
 
 Me apasiona construir productos completos, desde landing pages hasta aplicaciones web complejas, cuidando tanto el diseño como la arquitectura, el rendimiento, la accesibilidad y el SEO.
 

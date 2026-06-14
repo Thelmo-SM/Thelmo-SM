@@ -1,66 +1,203 @@
-# Hola, soy Thelmo Antonio Silverio Muñoz 👋
+# ¡Hola! Soy Thelmo Antonio Silverio Muñoz 👋
 
-**Full Stack Developer | Especialista en Desarrollo Frontend** enfocado en crear experiencias web modernas y funcionales.
+## Full Stack Developer especializado en Frontend
 
----
+Desarrollador Full Stack con especialización en desarrollo frontend. Desde 2022 he trabajado en el desarrollo de aplicaciones web modernas, enfocándome en crear interfaces de alto rendimiento, arquitecturas escalables y experiencias de usuario de calidad.
 
-### 🛠️ Tecnologías y Habilidades  
-**Frontend:**
-- **Lenguajes:** JavaScript (ES6+), TypeScript, HTML, CSS.  
-- **Frameworks y Librerías:** React, Next.js, Pug, Chakra UI, Redux Toolkit.
-- **Estilos:** Tailwind CSS, Sass, CSS Modules.  
-- **Manipulación del DOM:** Amplia experiencia optimizando y personalizando interacciones dinámicas.
-- 
-**Backend:**
-- **Bases de Datos:** MongoDB, PostgreSQL.
-- **Frameworks:** Express, TypeORM.
-- **APIs:** RESTful Services, integración con bases de datos.    
+Me apasiona construir productos completos, desde landing pages hasta aplicaciones web complejas, cuidando tanto el diseño como la arquitectura, el rendimiento, la accesibilidad y el SEO.
+
+Actualmente estoy abierto a colaborar en proyectos freelance y oportunidades profesionales.
 
 ---
 
-## Proyectos Destacados
+# 🚀 Tecnologías
 
-### 🛒 Carrito Digital para E-commerce
+## Frontend
 
-Aplicación web moderna desarrollada con **Next.js 15**, **React 19**, **Firebase** y **Stripe**, que permite a los usuarios:
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- CSS Modules
+- Sass
+- Chakra UI
+- Redux Toolkit
 
-- Agregar productos al carrito
-- Gestionar cantidades o eliminarlos
-- Procesar pagos seguros con **Stripe**
-- Visualizar pedidos anteriores
-- Comunicarse directamente con el administrador mediante un **chat en vivo integrado**
-- Almacenar imágenes con **Cloudinary**
-- Controlar autenticación y estado de sesión con **Firebase Auth** y cookies
-- Visualizar métricas de ventas con **Recharts**
-- Estilizado con **CSS Modules** para mantener una arquitectura de estilos modular y escalable
+## Backend
 
-**Tecnologías principales:**  
-`Next.js`, `React`, `Firebase`, `Stripe`, `Cloudinary`, `CSS Modules`, `Recharts`, `TypeScript`
+- Node.js
+- Express
+- Firebase
+- Firestore
+- MongoDB
+- PostgreSQL
+- TypeORM
 
-[🔗 Ver Repositorio](https://github.com/Thelmo-SM/carrito-digital)  
-[🌐 Ver Demo](https://carrito-digital.vercel.app)
+## Herramientas
+
+- Git
+- GitHub
+- Vercel
+- Cloudinary
+- Stripe
+- EmailJS
+- Three.js
+- HTML Canvas
 
 ---
 
-### ✂️ Elegance Studio - Plataforma Integral para Barbería
+# 💼 Proyectos Destacados
 
-Aplicación web completa para una barbería moderna que incluye:
+## 🌐 Portafolio Profesional
 
-- Reservas de citas personalizadas
-- Panel de control para barberos con métricas, control de clientes y gestión de citas
-- Chat entre clientes y barberos
+Mi sitio web personal donde presento mis servicios como desarrollador freelance.
+
+### Características
+
+- Next.js 15
+- SEO avanzado
+- Formularios funcionales
+- Three.js
+- Diseño responsive
+- Políticas legales
+- Sitemap
+- Robots.txt
+- Optimización de rendimiento
+
+**Tecnologías**
+
+`Next.js`
+`TypeScript`
+`CSS Modules`
+`Three.js`
+
+🔗 Demo  
+https://thelmo-sm.vercel.app
+
+Repositorio privado.
+
+---
+
+## 🛒 Carrito Digital
+
+Aplicación e-commerce moderna desarrollada con Next.js y Firebase.
+
+### Funcionalidades
+
+- Autenticación
+- Carrito de compras
+- Stripe
+- Historial de pedidos
+- Chat en tiempo real
+- Dashboard
+- Cloudinary
+- Panel administrativo
+- Gestión de productos
+
+**Tecnologías**
+
+`Next.js`
+`Firebase`
+`Stripe`
+`Cloudinary`
+`Recharts`
+`TypeScript`
+
+🔗 Repositorio
+
+https://github.com/Thelmo-SM/carrito-digital
+
+🌐 Demo
+
+https://carrito-digital.vercel.app
+
+---
+
+## ✂️ Elegance Studio
+
+Plataforma completa para una barbería.
+
+### Funcionalidades
+
+- Sistema de citas
 - Dashboard administrativo
-- Almacenamiento de imágenes con Cloudinary
+- Panel del barbero
+- Chat
+- Gestión de clientes
+- Cloudinary
+- Firebase
 
-**Tecnologías principales:**  
-`Next.js`, `React`, `Firebase`, `Cloudinary`, `Stripe`, `TypeScript`, `Tailwind CSS`
+**Tecnologías**
 
-[🔗 Ver Repositorio](https://github.com/Thelmo-SM/elegance-studio)
-[🌐 Ver Demo](https://elegance-studio.vercel.app/)
+`Next.js`
+`Firebase`
+`Tailwind CSS`
+`Cloudinary`
 
-- ---
+🔗 Repositorio
 
-### 📞 Contacto  
-- **Correo electrónico:** toraphebi@gmail.com  
-- **Número de teléfono:** +1 (809) 775-9905  
-- **LinkedIn:** [Thelmo-SM](https://www.linkedin.com/in/thelmo-sm/)  
+https://github.com/Thelmo-SM/elegance-studio
+
+🌐 Demo
+
+https://elegance-studio.vercel.app
+
+---
+
+## 🎮 Gorgan
+
+Videojuego de plataformas 2D desarrollado completamente desde cero utilizando JavaScript y HTML Canvas.
+
+### Características
+
+- Motor de colisiones propio
+- Sistema de animaciones
+- Game Loop
+- Gestión de estados
+- Renderizado con Canvas
+- Diseño completo de sprites
+- Diseño de escenarios
+- Recursos gráficos creados por mí
+- Integración de audio mediante Howler.js
+
+**Tecnologías**
+
+`JavaScript`
+`HTML Canvas`
+`CSS`
+`Howler.js`
+
+🌐 Demo
+
+https://game-gorgan.vercel.app
+
+---
+
+# 📚 Actualmente aprendiendo
+
+- Ingeniería Frontend
+- Optimización de rendimiento
+- Arquitecturas escalables
+- Accesibilidad
+- Testing
+- Three.js
+- Diseño de experiencias web modernas
+
+---
+
+# 📫 Contacto
+
+📧 **Correo**
+
+toraphebi@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/thelmo-sm/
+
+🌐 **Portafolio**
+
+https://thelmo-sm.vercel.app
